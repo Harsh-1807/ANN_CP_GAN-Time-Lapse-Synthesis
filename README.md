@@ -2,3 +2,4 @@
 
 
 using GANs to generate time-lapse videos
+--- Added Streamlit GUI
